@@ -1,7 +1,7 @@
 
 Ubuntu 20.04
 
-sudo apt update && sudo apt upgrade -y && sudo apt install git -y && git clone https://github.com/Appvortex/Old-server.git && cd Old-server && sudo chmod +x ./automatizaai && ./automatizaai
+sudo apt update && sudo apt upgrade -y && sudo apt install git -y && git clone https://github.com/Appvortex/delwol.git && cd Old-server && sudo chmod +x ./automatizaai && ./automatizaai
 
 Suporte
 Se você tiver dúvidas ou precisar de ajuda com a configuração, entre em contato via Whatsapp:
